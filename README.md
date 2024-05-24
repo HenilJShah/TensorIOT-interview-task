@@ -26,10 +26,7 @@ The Parking Lot Challenge is a programming simulation that involves creating a `
 ## Video Demo
 Watch the demo of the Parking Lot Challenge in action below.
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/HenilJShah/TensorIOT-interview-task/raw/master/demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+![demo.gif](demo.gif)
 
 ## Usage
 To run the simulation:
