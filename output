@@ -1,0 +1,173 @@
+Enter Total square footage available for parking in ft²:2000
+Enter spot length:8
+Enter spot width:12
+How many cars you want to park:25
+Each parking spot size: 96 ft²
+Total Car parking spots available: 20
+Total square footage available for parking: 2000 ft²
+
+Car with license plate 4874925 parked successfully in spot 17.
+Car with license plate 5602478 parked successfully in spot 7.
+Car with license plate 8165496 parked successfully in spot 9.
+Car with license plate 4712738 parked successfully in spot 6.
+Car with license plate 3134621 parked successfully in spot 13.
+	Spot 7 is already occupied.
+	Spot 9 is already occupied.
+Car with license plate 1867852 parked successfully in spot 4.
+Car with license plate 2829138 parked successfully in spot 16.
+Car with license plate 4936230 parked successfully in spot 18.
+Car with license plate 4636980 parked successfully in spot 14.
+Car with license plate 4932814 parked successfully in spot 2.
+	Spot 14 is already occupied.
+	Spot 2 is already occupied.
+	Spot 13 is already occupied.
+	Spot 9 is already occupied.
+Car with license plate 1613991 parked successfully in spot 11.
+Car with license plate 7846252 parked successfully in spot 8.
+	Spot 16 is already occupied.
+Car with license plate 7891101 parked successfully in spot 10.
+	Spot 16 is already occupied.
+Car with license plate 9741966 parked successfully in spot 19.
+	Spot 2 is already occupied.
+Car with license plate 7743508 parked successfully in spot 3.
+	Spot 19 is already occupied.
+	Spot 4 is already occupied.
+	Spot 18 is already occupied.
+	Spot 8 is already occupied.
+Car with license plate 4830361 parked successfully in spot 1.
+	Spot 6 is already occupied.
+	Spot 1 is already occupied.
+Car with license plate 8354864 parked successfully in spot 15.
+	Spot 11 is already occupied.
+	Spot 7 is already occupied.
+	Spot 13 is already occupied.
+	Spot 17 is already occupied.
+	Spot 19 is already occupied.
+	Spot 9 is already occupied.
+Car with license plate 1363305 parked successfully in spot 12.
+	Spot 8 is already occupied.
+	Spot 4 is already occupied.
+	Spot 13 is already occupied.
+	Spot 1 is already occupied.
+	Spot 9 is already occupied.
+	Spot 12 is already occupied.
+	Spot 6 is already occupied.
+	Spot 18 is already occupied.
+Car with license plate 6826241 parked successfully in spot 5.
+	Spot 9 is already occupied.
+	Spot 7 is already occupied.
+	Spot 2 is already occupied.
+	Spot 11 is already occupied.
+	Spot 5 is already occupied.
+	Spot 13 is already occupied.
+	Spot 17 is already occupied.
+	Spot 14 is already occupied.
+	Spot 16 is already occupied.
+	Spot 8 is already occupied.
+	Spot 6 is already occupied.
+	Spot 18 is already occupied.
+	Spot 10 is already occupied.
+	Spot 19 is already occupied.
+Car with license plate 7478187 parked successfully in spot 0.
+	Spot 13 is already occupied.
+	Spot 6 is already occupied.
+	Spot 16 is already occupied.
+	Spot 19 is already occupied.
+	Spot 11 is already occupied.
+	Spot 7 is already occupied.
+	Spot 3 is already occupied.
+	Spot 4 is already occupied.
+	Spot 9 is already occupied.
+	Spot 17 is already occupied.
+	Spot 14 is already occupied.
+	Spot 10 is already occupied.
+	Spot 18 is already occupied.
+	Spot 8 is already occupied.
+	Spot 5 is already occupied.
+	Spot 0 is already occupied.
+	Spot 2 is already occupied.
+	Spot 12 is already occupied.
+	Spot 1 is already occupied.
+	Spot 15 is already occupied.
+	Spot 19 is already occupied.
+	Spot 12 is already occupied.
+	Spot 8 is already occupied.
+	Spot 17 is already occupied.
+	Spot 7 is already occupied.
+	Spot 0 is already occupied.
+	Spot 5 is already occupied.
+	Spot 4 is already occupied.
+	Spot 9 is already occupied.
+	Spot 16 is already occupied.
+	Spot 18 is already occupied.
+	Spot 11 is already occupied.
+	Spot 10 is already occupied.
+	Spot 3 is already occupied.
+	Spot 6 is already occupied.
+	Spot 14 is already occupied.
+	Spot 2 is already occupied.
+	Spot 13 is already occupied.
+	Spot 15 is already occupied.
+	Spot 1 is already occupied.
+	Spot 13 is already occupied.
+	Spot 5 is already occupied.
+	Spot 8 is already occupied.
+	Spot 11 is already occupied.
+	Spot 19 is already occupied.
+	Spot 17 is already occupied.
+	Spot 15 is already occupied.
+	Spot 1 is already occupied.
+	Spot 0 is already occupied.
+	Spot 14 is already occupied.
+	Spot 7 is already occupied.
+	Spot 18 is already occupied.
+	Spot 4 is already occupied.
+	Spot 10 is already occupied.
+	Spot 9 is already occupied.
+	Spot 16 is already occupied.
+	Spot 6 is already occupied.
+	Spot 12 is already occupied.
+	Spot 3 is already occupied.
+	Spot 2 is already occupied.
+	Spot 10 is already occupied.
+	Spot 17 is already occupied.
+	Spot 16 is already occupied.
+	Spot 1 is already occupied.
+	Spot 6 is already occupied.
+	Spot 14 is already occupied.
+	Spot 9 is already occupied.
+	Spot 2 is already occupied.
+	Spot 8 is already occupied.
+	Spot 7 is already occupied.
+	Spot 11 is already occupied.
+	Spot 0 is already occupied.
+	Spot 3 is already occupied.
+	Spot 19 is already occupied.
+	Spot 4 is already occupied.
+	Spot 18 is already occupied.
+	Spot 12 is already occupied.
+	Spot 5 is already occupied.
+	Spot 13 is already occupied.
+	Spot 15 is already occupied.
+	Spot 17 is already occupied.
+	Spot 9 is already occupied.
+	Spot 11 is already occupied.
+	Spot 4 is already occupied.
+	Spot 12 is already occupied.
+	Spot 1 is already occupied.
+	Spot 16 is already occupied.
+	Spot 5 is already occupied.
+	Spot 3 is already occupied.
+	Spot 2 is already occupied.
+	Spot 10 is already occupied.
+	Spot 7 is already occupied.
+	Spot 19 is already occupied.
+	Spot 18 is already occupied.
+	Spot 14 is already occupied.
+	Spot 13 is already occupied.
+	Spot 6 is already occupied.
+	Spot 0 is already occupied.
+	Spot 15 is already occupied.
+	Spot 8 is already occupied.
+
+Process finished with exit code 0
