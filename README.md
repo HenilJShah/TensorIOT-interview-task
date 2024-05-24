@@ -24,7 +24,12 @@ The Parking Lot Challenge is a programming simulation that involves creating a `
 - **JSON Mapping**: An additional method in the `ParkingLot` class to map parked cars to their spots in a JSON format. This can be saved to a file and uploaded to an S3 bucket for further processing or storage.
 
 ## Video Demo
-Watch the demo of the Parking Lot Challenge in action [here](demo.webm); Output [logs](output).
+Watch the demo of the Parking Lot Challenge in action below.
+
+<video width="640" height="480" controls>
+  <source src="https://github.com/HenilJShah/TensorIOT-interview-task/raw/master/demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 ## Usage
 To run the simulation:
